@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-printer-issues",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
